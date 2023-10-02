@@ -1,5 +1,6 @@
 # facebock-clone
 facebock-clone using HTML,CSS,Bootstrap
+linkedin:https://www.linkedin.com/posts/dalal-zakarneh-57968223b_my-project-to-create-a-website-that-simulates-activity-6967912067135602688-arll?utm_source=share&utm_medium=member_desktop
 LOGIN
 ![image](https://github.com/dalal-01/facebock-clone/assets/113533489/425ffa01-06f1-4902-adbb-9bdfc2942452)
 
